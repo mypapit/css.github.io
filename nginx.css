@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #eaeaea;
+    background-repeat:no-repeat;
+    background: -webkit-linear-gradient( to left top, #a6a6a6, #f2f2f2);
+    background: -moz-linear-gradient( to left top, #a6a6a6, #f2f2f2);
+    background: -ms-linear-gradient( to left top, #a6a6a6, #f2f2f2);
+    background: -o-linear-gradient( to left top, #a6a6a6, #f2f2f2);
+    background: linear-gradient( to left top, #a6a6a6, #f2f2f2);
+}
+
+h1 {
+font-family: 'Slabo 27px', sans-serif;
+font-size: 500%;
+text-align:center;
+
+}
+
+p {
+
+font-family: 'Lato', sans-serif;
+font-size: 200%;
+display:block;
+text-align:center;
+}
+
+
+small {
+font-family: 'Lato', sans-serif;
+text-align: center;
+display:block;
+}
